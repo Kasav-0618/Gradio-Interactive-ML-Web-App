@@ -54,3 +54,5 @@ Your default browser will automatically open: `http://localhost:8501`.
 3. Click **"New app"**.
 4. Select your repository, branch (`main`), and set Main file path to `app.py`.
 5. Click **"Deploy!"**. You will get a live public URL.
+
+Demo Video link: https://youtu.be/1qzZOH-qgB8
